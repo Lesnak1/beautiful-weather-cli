@@ -1,0 +1,4 @@
+version: 1.0
+codeOwners:
+  - your_tea_protocol_address
+quorum: 1
